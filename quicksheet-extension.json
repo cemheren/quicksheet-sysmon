@@ -1,0 +1,10 @@
+{
+  "name": "quicksheet-sysmon",
+  "version": "1.0.0",
+  "description": "Live system monitoring for QuickSheet — CPU usage, RAM, disk space, network I/O, uptime, and load average on your desktop wallpaper",
+  "author": "cemheren",
+  "prefix": "sys:",
+  "repository": "https://github.com/cemheren/quicksheet-sysmon",
+  "runtime": "dotnet",
+  "entrypoint": "QuickSheetSysmon.dll"
+}
